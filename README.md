@@ -14,16 +14,16 @@ to download a file, it will initiate a direct connection to the relevant peers t
 peer should be able to download different chunks of the file simultaneously from many peers.
 
 ### protocol Design
-Register Request/Reply 
-File List Request/Reply
-File Location Request/Reply
-Chunk Register Request/Reply
-Leave Request/Reply
+Register Request/Reply   
+File List Request/Reply  
+File Location Request/Reply  
+Chunk Register Request/Reply  
+Leave Request/Reply  
 
 ### Basic Design
-Multiple Connections
-Parallel Downloading
-Chunk Management
+Multiple Connections  
+Parallel Downloading  
+Chunk Management  
 
 ### How to Build
 ```
