@@ -13,7 +13,7 @@ a new chunk of the file it becomes a source (of that chunk) for other peers. Whe
 to download a file, it will initiate a direct connection to the relevant peers to download the file. A
 peer should be able to download different chunks of the file simultaneously from many peers.
 
-### protocol Design
+### Protocol Design
 Register Request/Reply   
 File List Request/Reply  
 File Location Request/Reply  
