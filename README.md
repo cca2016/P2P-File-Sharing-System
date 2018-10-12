@@ -26,23 +26,23 @@ Parallel Downloading
 Chunk Management
 
 ### How to Build
-'''
+```
 cd p2p
 cd server
 make
 cd ..
 cd client
 make
-'''
+```
 
 ### Server Side
-'''
+```
 cd server
 ./server
-'''
+```
 
 ### Client Side [IP port] is optional, default port is 27890.
-'''
+```
 cd client
 ./client [IP port]
-'''
+```
